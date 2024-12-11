@@ -6,13 +6,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Mert+Yağcıoğlu!+%F0%9F%91%8B)
-<img align="right" alt= "Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 <h3 align="center">A passionate AI engineer.</h3>
 Welcome to my GitHub profile! I'm a passionate and dedicated computer engineer with a strong curiosity for learning and exploring new technologies. As an aspiring AI/ML Engineer, I'm driven by my enthusiasm for artificial intelligence and machine learning.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-yagcioglu&label=Profile%20views&color=0e75b6&style=flat" alt="mert-yagcioglu" /> </p>
+<img align="right" alt= "Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 - 🔭 I’m currently working on **AI**
 
