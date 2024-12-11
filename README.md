@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated computer engineer w
 
 - 📫 How to reach me **mert.yagcioglu@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1knXiha4M-uzd-sCEAoskq6JNw4ZEz8_Y/view?usp=sharing](https://drive.google.com/file/d/1knXiha4M-uzd-sCEAoskq6JNw4ZEz8_Y/view?usp=sharing)
-
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1knXiha4M-uzd-sCEAoskq6JNw4ZEz8_Y/view?usp=sharing](https://drive.google.com/file/d/1knXiha4M-uzd-sCEAoskq6JNw4ZEz8_Y/view?usp=sharing)
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-yagcioglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-yagcioglu/" height="30" width="40" /></a>
